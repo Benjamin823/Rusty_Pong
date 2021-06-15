@@ -1,3 +1,4 @@
 ## Rusty_Pong
 ---
-Pong game written in Rust
+Pong game written in Rust and ggez
+
